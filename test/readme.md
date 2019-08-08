@@ -5,3 +5,4 @@
 2.applicationContext-vb.xml中配置服务端
 
 3.下载sdk：https://www.virtualbox.org/wiki/Downloads
+4.需要在项目引入 sdk下的sdk\bindings\webservice\java\jax-ws\vboxjws.jar包
